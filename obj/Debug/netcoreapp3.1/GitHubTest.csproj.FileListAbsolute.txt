@@ -1,0 +1,13 @@
+C:\Users\Регина\source\repos\GitHubTest\bin\Debug\netcoreapp3.1\GitHubTest.exe
+C:\Users\Регина\source\repos\GitHubTest\bin\Debug\netcoreapp3.1\GitHubTest.deps.json
+C:\Users\Регина\source\repos\GitHubTest\bin\Debug\netcoreapp3.1\GitHubTest.runtimeconfig.json
+C:\Users\Регина\source\repos\GitHubTest\bin\Debug\netcoreapp3.1\GitHubTest.runtimeconfig.dev.json
+C:\Users\Регина\source\repos\GitHubTest\bin\Debug\netcoreapp3.1\GitHubTest.dll
+C:\Users\Регина\source\repos\GitHubTest\bin\Debug\netcoreapp3.1\GitHubTest.pdb
+C:\Users\Регина\source\repos\GitHubTest\obj\Debug\netcoreapp3.1\GitHubTest.csprojAssemblyReference.cache
+C:\Users\Регина\source\repos\GitHubTest\obj\Debug\netcoreapp3.1\GitHubTest.AssemblyInfoInputs.cache
+C:\Users\Регина\source\repos\GitHubTest\obj\Debug\netcoreapp3.1\GitHubTest.AssemblyInfo.cs
+C:\Users\Регина\source\repos\GitHubTest\obj\Debug\netcoreapp3.1\GitHubTest.csproj.CoreCompileInputs.cache
+C:\Users\Регина\source\repos\GitHubTest\obj\Debug\netcoreapp3.1\GitHubTest.dll
+C:\Users\Регина\source\repos\GitHubTest\obj\Debug\netcoreapp3.1\GitHubTest.pdb
+C:\Users\Регина\source\repos\GitHubTest\obj\Debug\netcoreapp3.1\GitHubTest.genruntimeconfig.cache
